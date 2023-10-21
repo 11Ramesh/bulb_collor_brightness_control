@@ -35,9 +35,17 @@ class _home1State extends State<home1> {
       body: Center(
         child: Column(
           children: [
-            Image.asset("assets/icon/image_hame.gif"),
             SizedBox(
-              height: 20,
+              height: 50,
+            ),
+            Container(
+              width: 300,
+              child: Image.asset(
+                "assets/icon/image_hame.webp",
+              ),
+            ),
+            SizedBox(
+              height: 180,
             ),
             start_btn(),
           ],

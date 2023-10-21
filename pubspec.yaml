@@ -66,7 +66,7 @@ flutter_launcher_icons:
 flutter:
   assets:
     - assets/icon/icon_home.png
-    - assets/icon/image_hame.gif
+    - assets/icon/image_hame.webp
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:

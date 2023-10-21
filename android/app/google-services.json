@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "255747474018",
-    "firebase_url": "https://last-led-control-default-rtdb.firebaseio.com",
-    "project_id": "last-led-control",
-    "storage_bucket": "last-led-control.appspot.com"
+    "project_number": "177918479758",
+    "project_id": "bulb-control-aecfc",
+    "storage_bucket": "bulb-control-aecfc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:255747474018:android:ba1d0a80773d423411c73b",
+        "mobilesdk_app_id": "1:177918479758:android:efeba62c4f6f60e13de8df",
         "android_client_info": {
           "package_name": "com.example.led_control_2"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBV4jyNrPS1l_EWSFzHYUvVdEjDYylQhE0"
+          "current_key": "AIzaSyCXwUqSNbOUd_O90BEZqdUHRgrJWTYgAYw"
         }
       ],
       "services": {
